@@ -4,7 +4,7 @@ end
 
 attr_accessor :color, :size, :material, :condition
 
-def @brand=brand
+def @brand = brand
 end 
 
 def brand
