@@ -8,4 +8,8 @@ class Shoe
   def brand
     @brand
   end 
+  
+  def cobbie
+    puts "the shoe has been repaired"
+  end
 end 
