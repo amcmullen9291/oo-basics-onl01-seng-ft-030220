@@ -9,7 +9,7 @@ class Shoe
     @brand
   end 
   
-  def cobbie
+  def cobble
     puts "the shoe has been repaired"
   end
 end 
